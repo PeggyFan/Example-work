@@ -1,4 +1,4 @@
-##Swiftkey Next Word Prediction Project
+##Swiftkey Next Word Prediction Project using R and Shiny
 
 [![](rpubs_swiftkey.png)](https://peggyfan.shinyapps.io/textPredictionGT)
 
