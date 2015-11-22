@@ -1,5 +1,6 @@
 # Example-work
-This encompasses some of the projects and analyses I have done.
+This repo encompasses some of the projects and analyses I have done.
+
 <br>Email_campaign: Python, matplotlib. SQL</br>
 <br>*Project_sentiment_analyses#1 & #2: Python, matplotlib</br>
 <br>ShinyApp_Swiftkey: R, Shiny</br>
