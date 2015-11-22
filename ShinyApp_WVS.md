@@ -1,4 +1,4 @@
-##A look at the World Values Surveys
+##A look at the World Values Surveys using R and Shiny
 
 [![](rpubs_WVS.png)](https://peggyfan.shinyapps.io/shinyapps/)
 
